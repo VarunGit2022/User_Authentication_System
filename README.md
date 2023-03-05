@@ -7,6 +7,15 @@ This project is an user authentication system built using Django, a popular web 
 4. The logout functionality enables users to safely log out of their account, preventing unauthorized access. 
 5. The change password functionality allows users to update their account password for security purposes.
 
+Technology Stack:
+
+1. Python
+2. Django
+3. HTML
+4. CSS
+5. Bootstrap
+6. SQLite (for the database)
+
 Use the following paths to go through the functions of the application:
 
 ![image](https://user-images.githubusercontent.com/114444753/222944250-d79a4d47-cb67-43ba-b94e-3d9beb589357.png)
