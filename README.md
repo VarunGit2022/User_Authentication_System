@@ -21,4 +21,4 @@ Use the following paths to go through the functions of the application:
 ![image](https://user-images.githubusercontent.com/114444753/222944250-d79a4d47-cb67-43ba-b94e-3d9beb589357.png)
 
 
-Overall, your project provides users with a secure and reliable authentication system for accessing your web application or website.
+Overall, the project provides users with a secure and reliable authentication system for accessing your web application or website.
